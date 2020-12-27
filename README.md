@@ -12,10 +12,8 @@ NO NOS HACEMOS RESPONSABLES DE EL MAL USO QUE LE DEN A LA HERRAMIENT
 
 INSTALACIÓN
 
-apt update && apt upgrade -y
+actualización de apt && actualización de apt -y
 pkg install git -y
 git clone https://github.com/Predator-james/TecniNetwork
 cd TecniNetwork
 bash TecniNetwork.sh
-
-TÉCNICOS EN HACKING, PROTECTORES INFORMÁTICOS
